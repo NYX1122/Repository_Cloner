@@ -1,0 +1,20 @@
+{
+  "name": "repository_cloner",
+  "version": "1.0.0",
+  "description": "Clones repositories to a specified directory using the GitHub API.",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "test": "node appTester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYX1122/Repository_Cloner.git"
+  },
+  "author": "BoDee Angus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYX1122/Repository_Cloner/issues"
+  },
+  "homepage": "https://github.com/NYX1122/Repository_Cloner#readme"
+}
